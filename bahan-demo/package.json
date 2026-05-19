@@ -1,0 +1,16 @@
+{
+  "name": "internet-positive-api-final",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Domain health & compliance monitoring API for checking domain status through a configurable provider adapter.",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail",
+    "test:local": "node scripts/smoke-test.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
