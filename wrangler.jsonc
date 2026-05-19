@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "bahan-demo",
+  "compatibility_date": "2026-05-19",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "bahan-demo"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
