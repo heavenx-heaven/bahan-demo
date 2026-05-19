@@ -19,12 +19,12 @@ crons = ["*/10 * * * *"]
 
 [[kv_namespaces]]
 binding = "IPOS_CACHE"
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "7871d779582c48fcba3ab83f60dc3493"
 
 [[kv_namespaces]]
 binding = "IPOS_RATE_LIMIT"
-id = "REPLACE_WITH_RATE_LIMIT_KV_NAMESPACE_ID"
+id = "acbfe8c3bd5e499894065487b2b6316e"
 
 [[kv_namespaces]]
 binding = "IPOS_MONITOR"
-id = "REPLACE_WITH_MONITOR_KV_NAMESPACE_ID"
+id = "723857cb785c413084ce89dd422f148c"
